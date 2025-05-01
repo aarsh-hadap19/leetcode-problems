@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
