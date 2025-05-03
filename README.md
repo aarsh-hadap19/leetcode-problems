@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
