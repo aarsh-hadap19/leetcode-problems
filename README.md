@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
