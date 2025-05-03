@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
