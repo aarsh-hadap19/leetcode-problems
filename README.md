@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
 ## Trie
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
 ## Greedy
 |  |
 | ------- |
