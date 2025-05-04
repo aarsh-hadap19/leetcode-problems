@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
