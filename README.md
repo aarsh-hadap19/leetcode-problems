@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
