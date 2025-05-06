@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -136,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
