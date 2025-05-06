@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
