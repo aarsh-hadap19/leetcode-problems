@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
