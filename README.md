@@ -86,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0134-gas-station) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0134-gas-station](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0134-gas-station) |
 ## Linked List
 |  |
 | ------- |
