@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0141-linked-list-cycle) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
