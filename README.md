@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
