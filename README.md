@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Database
 |  |
 | ------- |
