@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0216-combination-sum-iii) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0216-combination-sum-iii) |
 ## Greedy
 |  |
 | ------- |
