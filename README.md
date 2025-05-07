@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
