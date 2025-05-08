@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
