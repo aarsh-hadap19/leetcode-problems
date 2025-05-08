@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
