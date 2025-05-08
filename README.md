@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 ## Depth-First Search
 |  |
 | ------- |
