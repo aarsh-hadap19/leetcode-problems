@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
+| [1797-goal-parser-interpretation](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 ## Dynamic Programming
 |  |
 | ------- |
