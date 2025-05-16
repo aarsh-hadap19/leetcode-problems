@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0078-subsets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0053-maximum-subarray) |
