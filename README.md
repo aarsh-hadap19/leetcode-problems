@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0494-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0494-target-sum) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
