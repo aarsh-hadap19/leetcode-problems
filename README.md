@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Array
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
