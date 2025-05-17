@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 ## Backtracking
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
