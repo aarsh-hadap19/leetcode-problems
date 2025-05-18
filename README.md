@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 ## Greedy
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
 |  |
 | ------- |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+## Enumeration
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
