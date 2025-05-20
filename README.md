@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1797-goal-parser-interpretation](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
+| [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
