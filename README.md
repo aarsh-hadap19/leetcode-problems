@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3639-zero-array-transformation-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 ## Interactive
 |  |
@@ -404,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
