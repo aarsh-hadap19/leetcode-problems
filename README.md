@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Backtracking
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0507-perfect-number) |
+| [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Array
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
