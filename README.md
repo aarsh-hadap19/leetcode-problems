@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
 ## Depth-First Search
 |  |
 | ------- |
