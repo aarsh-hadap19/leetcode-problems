@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1797-goal-parser-interpretation](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
+| [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3639-zero-array-transformation-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
