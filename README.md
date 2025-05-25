@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1708-design-parking-system](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1708-design-parking-system) |
 ## Database
 |  |
 | ------- |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [1708-design-parking-system](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1708-design-parking-system) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Enumeration
