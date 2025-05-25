@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3639-zero-array-transformation-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
 |  |
 | ------- |
