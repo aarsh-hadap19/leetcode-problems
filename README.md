@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
 |  |
 | ------- |
