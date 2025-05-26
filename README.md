@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Number Theory
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
