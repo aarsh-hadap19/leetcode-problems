@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
+| [1532-reformat-the-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1532-reformat-the-string) |
 | [1797-goal-parser-interpretation](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
