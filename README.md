@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 ## Interactive
