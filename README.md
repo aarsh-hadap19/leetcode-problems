@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Backtracking
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1708-design-parking-system](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1708-design-parking-system) |
 ## Database
 |  |
