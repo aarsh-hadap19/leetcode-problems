@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
