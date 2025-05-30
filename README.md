@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0051-n-queens) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0088-merge-sorted-array) |
