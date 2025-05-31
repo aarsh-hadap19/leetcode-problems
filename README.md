@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2679-count-distinct-numbers-on-board](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2679-count-distinct-numbers-on-board) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2679-count-distinct-numbers-on-board](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2679-count-distinct-numbers-on-board](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1708-design-parking-system) |
+| [2679-count-distinct-numbers-on-board](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Enumeration
