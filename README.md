@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Greedy
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 ## Interactive
 |  |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
 | ------- |
