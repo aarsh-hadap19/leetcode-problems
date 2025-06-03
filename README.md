@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0525-contiguous-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0372-super-pow) |
+| [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -465,4 +468,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2873-prime-pairs-with-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
