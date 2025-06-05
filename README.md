@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0494-target-sum) |
+| [1013-fibonacci-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2679-count-distinct-numbers-on-board) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -488,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
