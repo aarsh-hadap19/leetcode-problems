@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
