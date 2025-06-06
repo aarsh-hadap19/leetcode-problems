@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1260-day-of-the-year) |
 | [1532-reformat-the-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1532-reformat-the-string) |
 | [1797-goal-parser-interpretation](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2679-count-distinct-numbers-on-board) |
 ## Backtracking
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
