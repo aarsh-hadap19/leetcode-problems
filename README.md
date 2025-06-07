@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2047-find-a-peak-element-ii) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2047-find-a-peak-element-ii) |
 | [3398-make-a-square-with-the-same-color](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2047-find-a-peak-element-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aarsh-hadap19/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
